@@ -1,0 +1,29 @@
+body {
+    background-color: goldenrod;
+    padding: 40px 0 0 250px;
+}
+
+
+.form-group input {
+
+    padding:10px 30px;
+        border-radius: 40px;
+        display: flex;
+        justify-content: center;
+        border-spacing: 15px;
+        outline: none;
+        color: blue;
+}
+
+
+
+.form-control{
+    text-align: center;
+    padding: 10px 0 0 0;
+    font-style: italic;
+    
+}
+
+.footer {
+    color: #ffffff
+}
